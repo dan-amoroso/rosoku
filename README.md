@@ -1,5 +1,5 @@
 # Rōsoku (candles)
-Haskell module to transform currency exchange transactions (for now only for crypto-currencies) into japanese candle-sticks style graphs elements
+Haskell module to transform currency exchange transactions into japanese candle-sticks style graphs elements
 
 ## why
 - data aggregation (we are currently storing raw transaction data at a granularity we do not need, and storing candlestick data should save space on our poor tiny cheap digital ocean droplets)
